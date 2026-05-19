@@ -5,7 +5,7 @@ A full-stack Lead Management Dashboard built with the MERN stack and TypeScript.
 ## Live Demo
 
 - **Frontend**: https://smart-leads.vercel.app
-- **Backend API**: https://smart-leads-server.onrender.com
+- **Backend API**:  https://smart-leads-server-14ee.onrender.com
 
 > ⚠️ Note: The backend is hosted on Render's free tier and may take 30–60 seconds to wake up on the first request.
 
